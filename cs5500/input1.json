@@ -1,0 +1,12 @@
+{
+  "StartingDate": "2020-06-07",
+  "EndingDate": "2020-06-09",
+  "OpenTime":"6",
+  "CloseTime": "21",
+  "DailyAveNumber": [800, 1000, 1200, 900, 2500, 4000, 5000],
+  "DailyAveDuration": 25,
+  "LunchHour": "12-13",
+  "DinnerHour": "17-19",
+  "SeniorDay": 2,
+  "SeniorHour": "9-10"
+}
